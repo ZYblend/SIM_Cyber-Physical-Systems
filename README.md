@@ -34,5 +34,6 @@ In each simulation, physical system simulation, nominal control design, and stat
 - A least-square observer
 - 
 
-## License
-If you find these simulations useful for your research or projects, please credit me by citing my [papers](https://scholar.google.com/citations?user=dn6dKBUAAAAJ&hl=en).
+## Acknowledgment
+We developed these simulation systems during my five-year PhD Journey. Instead of using a simple differential equation, we use the real systems as the testbeds.
+If you find these simulations useful for your research or projects, please credit me by starring the repo and citing my [papers](https://scholar.google.com/citations?user=dn6dKBUAAAAJ&hl=en)!
