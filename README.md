@@ -7,11 +7,6 @@ In this repo, we share simulation testbeds of four particular cyber-physical con
 
 In each simulation, physical system simulation, nominal control design, and state estimator design are listed.
 
-## IEEE 14 bus System
-- A small signal model
-- A Luenberger observer
-- A PI controller
-
 
 ## Wheeled Mobile Robot
 - Both vehicle kinematic model and dynamical model 
@@ -20,6 +15,12 @@ In each simulation, physical system simulation, nominal control design, and stat
 
 ![image](https://github.com/ZYblend/SIM_Cyber-Physical-Systems/assets/36635562/5bce4b17-c006-464e-9def-64069959fbbc)
 
+## IEEE 14 bus System
+- A small signal model
+- A Luenberger observer
+- A PI controller
+
+![image](https://github.com/ZYblend/SIM_Cyber-Physical-Systems/assets/36635562/22efdef1-7e8c-4e08-ad7f-d58f097bbdcd)
 
 
 ## Networked Pipeline System
