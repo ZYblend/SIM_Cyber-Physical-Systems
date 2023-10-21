@@ -1,4 +1,7 @@
-% Run_this_file_for_DDWMR_model
+%% Run_this_file_for_DDWMR_model
+%
+% @ Yu Zheng, Florida State University
+% 10/21/2021
 
 %% parameter
 r  = 0.05;                       % wheel's radium (m)
