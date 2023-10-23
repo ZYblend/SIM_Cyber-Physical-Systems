@@ -34,8 +34,11 @@ In each simulation, physical system simulation, nominal control design, and stat
 
 ## Water Distribution System
 - A linear 11-tanks system
-- A least-square observer
-- 
+- A moving-horizon least-square observer
+- A PI controller
+
+![image](https://github.com/ZYblend/SIM_Cyber-Physical-Systems/assets/36635562/f01c6355-a4eb-44d5-b29d-7d8380298c6e)
+
 
 ## Acknowledgment
 We developed these simulation systems during my five-year PhD Journey. Instead of using a simple differential equation, we use the real systems as the testbeds.
