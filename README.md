@@ -25,8 +25,11 @@ In each simulation, physical system simulation, nominal control design, and stat
 
 ## Networked Pipeline System
 - A nonlinear networked pipeline's pressure model
-- A Model Predictive Controller
+- A Model Predictive Supervised Controller
 - An Unscented Kalman Filter
+
+![image](https://github.com/ZYblend/SIM_Cyber-Physical-Systems/assets/36635562/6040942c-ef27-4dfa-9767-319901f88b8f)
+
 
 
 ## Water Distribution System
